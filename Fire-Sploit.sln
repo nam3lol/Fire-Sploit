@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Sploit", "Fire-Sploit\Fire-Sploit.csproj", "{8A23B9E8-B4E4-41E5-BC34-6C4EEB9EB6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A23B9E8-B4E4-41E5-BC34-6C4EEB9EB6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A23B9E8-B4E4-41E5-BC34-6C4EEB9EB6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A23B9E8-B4E4-41E5-BC34-6C4EEB9EB6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A23B9E8-B4E4-41E5-BC34-6C4EEB9EB6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C40D1FF7-ECB9-44CE-8AB9-F732143D3773}
+	EndGlobalSection
+EndGlobal

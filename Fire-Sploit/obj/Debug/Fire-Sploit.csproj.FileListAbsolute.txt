@@ -1,0 +1,15 @@
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\bin\Debug\Fire-Sploit.exe.config
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\bin\Debug\Fire-Sploit.exe
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\bin\Debug\Fire-Sploit.pdb
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire_Sploit.Loader.resources
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire_Sploit.Properties.Resources.resources
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.csproj.CopyComplete
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.exe
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.pdb
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire_Sploit.ExecutorForm.resources
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joshu\source\repos\Fire-Sploit\Fire-Sploit\obj\Debug\Fire-Sploit.csproj.Fody.CopyLocal.cache
